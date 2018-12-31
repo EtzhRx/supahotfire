@@ -1,1 +1,1 @@
-worker : node silencecreed.js
+worker: node silencecreed.js
