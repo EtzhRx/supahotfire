@@ -10,4 +10,4 @@ if(message.content === "ping") {
 message.channel.send('Pong!');
 }
 });
-client.login('mfa.T2iHU4XYqqQ8T5x8R0AAK4CU93S9eu9htl9Ij7G7Ld0N0-t4fuk7nfyiV-tp2xAU-5DPBoaMN7PGl_tvBcGu');
+client.login('MzE3Mjc4NTc0MzI5NzI0OTI5.Dwi42A.ymtE4mI05oOauc4AYHHTUiVYkZc');
